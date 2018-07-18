@@ -23,7 +23,7 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.
 
    ```shell
    cd caffe-master
-   cp Makefile.config
+   cp Makefile.config.example Makefile.config
    vim Makefile.config
    make -j8 && make pycaffe
    ```
