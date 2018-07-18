@@ -45,7 +45,7 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 ### Citation
 If C2SNet is useful for your research, please consider citing:
 
-    @inproceedings{li2017mscnet,
+    @inproceedings{xin2018c2s,
       author = {Xin Li, Fan Yang, Hong Cheng, Wei Liu and Dinggang Shen},
       title = {Contour Knowledge Transfer for Salient Object Detection},
       booktitle = {ECCV},
