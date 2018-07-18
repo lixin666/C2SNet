@@ -16,14 +16,14 @@ The code has been tested successfully on Ubuntu 14.04 with CUDA 8.0.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/lixin666/MSC-NET.git
+   git clone https://github.com/lixin666/C2SNet.git
    ```
 
 2. Build Caffe and pycaffe:
 
    ```shell
-   cd $ROOT
-   cp Makefile.config.example Makefile.config
+   cd caffe-master
+   cp Makefile.config
    vim Makefile.config
    make -j8 && make pycaffe
    ```
