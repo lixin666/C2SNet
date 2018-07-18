@@ -50,7 +50,7 @@ If C2SNet is useful for your research, please consider citing:
       title = {Contour Knowledge Transfer for Salient Object Detection},
       booktitle = {ECCV},
       year = {2018}
-   }
+    }
 
 ### Question
 Please contact 'fanyang_uestc@hotmail.com'
