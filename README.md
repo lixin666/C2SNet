@@ -46,11 +46,11 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 If C2SNet is useful for your research, please consider citing:
 
     @inproceedings{xin2018c2s,
-      author = {Xin Li, Fan Yang, Hong Cheng, Wei Liu and Dinggang Shen},
+      author = {Li, Xin and Yang, Fan and  Cheng, Hong, and Liu, Wei and Shen, Dinggang},
       title = {Contour Knowledge Transfer for Salient Object Detection},
       booktitle = {ECCV},
       year = {2018}
-    }
+   }
 
 ### Question
 Please contact 'fanyang_uestc@hotmail.com'
