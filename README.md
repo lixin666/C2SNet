@@ -32,24 +32,24 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 
 3. Test:
 
-   - Test code is in folder 'test'.
-   - Download trained models and put them in folder 'test/models':
-     - MSCNet.caffemodel: [BaiduYun](https://pan.baidu.com/s/1eSfaDto) or [GoogleDrive](https://drive.google.com/open?id=1wb71oU49G3gyor7vF1qDgPq0ePCFYHKG)
+   - Test code is in folder 'code'.
+    - We provide two models trained with 10K and 30K training images. Download trained models and put them in folder 'code/models':
+     - C2SNet10K.caffemodel: [BaiduYun]() or [GoogleDrive](https://drive.google.com/open?id=17j6pw_ML1SUN52LA50lpzWifPjKAnidJ)
+     - C2SNet30K.caffemodel: [BaiduYun]() or [GoogleDrive](https://drive.google.com/open?id=1zflZLDciS5_Ttljenia_nkkBOZBM7VBs)
    - Put the test images in folder 'images', and run
    
    ```shell
-   python test.py
+   python run_demo.py
    ```
-   -After that, the results will be genrated in folder 'results'.
+   -After that, the results will be genrated in folder 'res'.
 ### Citation
-If MSCNet is useful for your research, please consider citing:
+If C2SNet is useful for your research, please consider citing:
 
     @inproceedings{li2017mscnet,
-      author = {Xin Li and Fan Yang and Hong Cheng 
-                and Junyu Chen and Leiting Chen},
-      title = {Multi-Scale Cascade Network for Salient Object Detection},
-      booktitle = {ACM MM},
-      year = {2017}
+      author = {Xin Li, Fan Yang, Hong Cheng, Wei Liu and Dinggang Shen},
+      title = {Contour Knowledge Transfer for Salient Object Detection},
+      booktitle = {ECCV},
+      year = {2018}
     }
 
 ### Question
