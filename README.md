@@ -4,7 +4,7 @@ by Xin Li, Fan Yang, Hong Cheng, Wei Liu and Dinggang Shen
 
 ### Introduction
 
-This repository is for '[Contour Knowledge Transfer for Salient ObjectDetection]'.
+This repository is for '[Contour Knowledge Transfer for Salient ObjectDetection]()'.
 ### Installation
 
 For installation, please follow the instructions of [Caffe](https://github.com/BVLC/caffe).
@@ -34,8 +34,8 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 
    - Test code is in folder 'code'.
     - We provide two models trained with 10K and 30K training images. Download trained models and put them in folder 'code/models':
-     - C2SNet10K.caffemodel: [BaiduYun]() or [GoogleDrive](https://drive.google.com/open?id=17j6pw_ML1SUN52LA50lpzWifPjKAnidJ)
-     - C2SNet30K.caffemodel: [BaiduYun]() or [GoogleDrive](https://drive.google.com/open?id=1zflZLDciS5_Ttljenia_nkkBOZBM7VBs)
+     - C2SNet10K.caffemodel: [BaiduYun](https://pan.baidu.com/s/172H9xR3bSwfl9mxOsVwq5Q) or [GoogleDrive](https://drive.google.com/open?id=17j6pw_ML1SUN52LA50lpzWifPjKAnidJ)
+     - C2SNet30K.caffemodel: [BaiduYun](https://pan.baidu.com/s/1Lo1YgOQlQqNzD5zuVb6NDA) or [GoogleDrive](https://drive.google.com/open?id=1zflZLDciS5_Ttljenia_nkkBOZBM7VBs)
    - Put the test images in folder 'images', and run
    
    ```shell
