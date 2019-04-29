@@ -42,6 +42,15 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
    python run_demo.py
    ```
    -After that, the results will be genrated in folder 'res'.
+   
+4. Results:
+  - You can also simply download the results for comparison.
+  
+   - C2SNet10K: https://drive.google.com/open?id=1hWr6X8P8aPtqcA8fxGwvQKkfjVCfT8LJ
+   
+   - C2SNet30K: https://drive.google.com/open?id=1ljTmdQxkSmUREwIm0SjhPFVL1o0THtLR
+   
+   
 ### Citation
 If C2SNet is useful for your research, please consider citing:
 
