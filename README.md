@@ -4,7 +4,7 @@ by Xin Li, Fan Yang, Hong Cheng, Wei Liu and Dinggang Shen
 
 ### Introduction
 
-This repository is for '[Contour Knowledge Transfer for Salient ObjectDetection]()'.
+This repository is for '[Contour Knowledge Transfer for Salient ObjectDetection](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xin_Li_Contour_Knowledge_Transfer_ECCV_2018_paper.pdf)'.
 ### Installation
 
 For installation, please follow the instructions of [Caffe](https://github.com/BVLC/caffe).
