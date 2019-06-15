@@ -49,9 +49,9 @@ ps: You should uncomment 'WITH_PYTHON_LAYER := 1' in Makefile.config before comp
 4. Results:
   - You can also download the results for comparison.
   
-   - C2SNet10K: [BaiduYun](https://pan.baidu.com/s/1lAa2LEBtxJAUUFfXZqgzmw)(access code:p3b7) or [GoogleDrive](https://drive.google.com/open?id=1b4Sp62JSAKLzDuMGE8Zbya7ROBtCzP9n)
+   - C2SNet10K: [BaiduYun](https://pan.baidu.com/s/1lAa2LEBtxJAUUFfXZqgzmw)(access code: p3b7) or [GoogleDrive](https://drive.google.com/open?id=1b4Sp62JSAKLzDuMGE8Zbya7ROBtCzP9n)
    
-   - C2SNet30K: [BaiduYun](https://pan.baidu.com/s/1787k20ZEgB3qoJhGRNk1tw)(access code:2c67) or [GoogleDrive](https://drive.google.com/open?id=1azbaNraKV4k3WTQRMr2kX-pUkh9cGOhn)
+   - C2SNet30K: [BaiduYun](https://pan.baidu.com/s/1787k20ZEgB3qoJhGRNk1tw)(access code: 2c67) or [GoogleDrive](https://drive.google.com/open?id=1azbaNraKV4k3WTQRMr2kX-pUkh9cGOhn)
    
    
 ### Citation
